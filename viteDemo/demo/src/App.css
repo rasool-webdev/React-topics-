@@ -1,0 +1,10 @@
+.Cart{
+  border: 2px solid black;
+  display: grid;
+  flex-wrap: nowrap;
+   gap:40px;
+
+}
+.btn{
+  background-color: aqua;
+}

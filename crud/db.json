@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "students": [
+    {
+      "id": 2,
+      "name": "mohan",
+      "marks": "90"
+    },
+    {
+      "id": 4,
+      "name": "kareem",
+      "marks": "89"
+    },
+    {
+      "id": 1,
+      "name": "krishna",
+      "marks": "999"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
